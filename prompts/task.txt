@@ -1,0 +1,5 @@
+幫 scripts/credits.js 加一個命令列介面 scripts/credits-cli.js，
+用法是 node scripts/credits-cli.js <model> --input <n> --output <n>，
+印出 credits（小數三位）。在 test/ 目錄用 node:test 補測試，
+至少測 gpt-6-luna 的 input 12000 / output 800 要印 0.160。
+做完跑 npm test 確認通過。

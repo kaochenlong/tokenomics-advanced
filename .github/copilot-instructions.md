@@ -1,0 +1,3 @@
+- 回答用台灣繁體中文。
+- 這個專案用 ES Modules，測試用 node:test，跑 npm test。
+- 改檔案之前先讀過它。
